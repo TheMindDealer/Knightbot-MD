@@ -157,7 +157,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
 
 
-## Credits
+## Credits:-
 
 - [Professor](https://github.com/mruniquehacker)
 - [Baileys](https://github.com/adiwajshing/Baileys)
